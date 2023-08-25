@@ -1,3 +1,18 @@
+CREATE
+![image](https://github.com/JoaoEnrique13/laravel_breeze/assets/99426704/c076fb08-31a0-44d1-9d06-f433ba0b587e)
+
+READ
+![image](https://github.com/JoaoEnrique13/laravel_breeze/assets/99426704/3c37ad79-567f-4a04-b42d-4bd670475c82)
+
+UPDATE
+![image](https://github.com/JoaoEnrique13/laravel_breeze/assets/99426704/2bf23fdc-49cd-4ca9-9314-8bc1f20c80b3)
+
+![image](https://github.com/JoaoEnrique13/laravel_breeze/assets/99426704/fdb2d961-9f79-49be-a01b-0893aaaf8816)
+
+DELETE
+![image](https://github.com/JoaoEnrique13/laravel_breeze/assets/99426704/d4ebaefe-4c8f-4ddf-852d-cc697d2898c3)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
